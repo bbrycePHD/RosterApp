@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-#import plotly.express as px
 import plotly.express as px
+#import plotly.express as px
 
 # Load the data
 # LITE FILE: https://drive.google.com/file/d/1BoezQAGeKSAo-61Bu2PPP3i_JaDamNhr/view?usp=drive_link
